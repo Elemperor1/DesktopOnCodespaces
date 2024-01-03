@@ -20,4 +20,4 @@ else
 fi
 docker run --rm -d -p 3000:3000/tcp -p 3001:3001/tcp desktoponcodespaces:latest
 clear
-echo "INSTALL FINISHED! Download Docker Extension and run image then open port 3000 in a new tab!!!"
+echo "INSTALL FINISHED! Check ports tab for 3000!"
