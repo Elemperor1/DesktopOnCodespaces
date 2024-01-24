@@ -25,13 +25,13 @@ it's very simple to install, there is a pseudo-graphical installer.
 first start a new codespace https://github.com/codespaces/new
 to install just copy and paste this command in your codespace terminal
 ```
-curl -O https://raw.githubusercontent.com/BreadGhoti1/DesktopOnCodespaces/main/install.sh
+curl -O https://raw.githubusercontent.com/BreadGhoti/DesktopOnCodespaces/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
 for dev branch (unstable)
 ```
-curl -O https://raw.githubusercontent.com/BreadGhoti1/DesktopOnCodespaces/main/install-dev.sh
+curl -O https://raw.githubusercontent.com/BreadGhoti/DesktopOnCodespaces/main/install-dev.sh
 chmod +x install-dev.sh
 ./install-dev.sh
 ```
